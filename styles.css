@@ -11,3 +11,38 @@
 .register-btn:hover {
     background-color: #F8F9FA;
 }
+
+.get-started-btn {
+    background-color: #289BDE;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.get-started-btn:hover {
+    background-color: #289bdeb2;
+}
+
+.carousel-img-1 {
+    height: 600px;
+    background-image: url(images/cover/cover-1.png);
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.466);
+}
+
+.carousel-img-2 {
+    height: 600px;
+    background-image: url(images/cover/cover-2.jpg);
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.466);
+}
+
+.carousel-img-3 {
+    height: 600px;
+    background-image: url(images/cover/cover-3.jpg);
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.466);
+}
